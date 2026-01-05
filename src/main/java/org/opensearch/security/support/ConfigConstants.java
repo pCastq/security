@@ -273,6 +273,7 @@ public class ConfigConstants {
     // retry
     public static final String SECURITY_AUDIT_RETRY_COUNT = SECURITY_SETTINGS_PREFIX + "audit.config.retry_count";
     public static final String SECURITY_AUDIT_RETRY_DELAY_MS = SECURITY_SETTINGS_PREFIX + "audit.config.retry_delay_ms";
+    public static final String SECURITY_AUDIT_CONFIG_TIMEZONE = SECURITY_SETTINGS_PREFIX + "audit.config.timezone";
 
     public static final String SECURITY_KERBEROS_KRB5_FILEPATH = SECURITY_SETTINGS_PREFIX + "kerberos.krb5_filepath";
     public static final String SECURITY_KERBEROS_ACCEPTOR_KEYTAB_FILEPATH = SECURITY_SETTINGS_PREFIX + "kerberos.acceptor_keytab_filepath";
